@@ -46,6 +46,8 @@
 </picture>
 </div>
 
+<img src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/dist/snake.svg" alt="Snake animation" />
+
 <div align="right">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoel-rodrigues-055710193/)
