@@ -45,7 +45,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
 </picture>
 
-<div align="right" style="display: flex; gap: 10px">
+<div align="right" >
   <a href="https://www.linkedin.com/in/emanoel-rodrigues-055710193/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
   </a>
