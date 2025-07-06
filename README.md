@@ -49,9 +49,10 @@
   <a href="https://www.linkedin.com/in/emanoel-rodrigues-055710193/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
   </a>
-  <img width="12" />
   
-
+  <a href="https://discord.com/users/442078234499219456" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
+  </a>
   
   <a href="https://www.instagram.com/emanuellegario/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo"  />
