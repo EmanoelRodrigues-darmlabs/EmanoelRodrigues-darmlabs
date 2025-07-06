@@ -45,20 +45,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
 </picture>
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/emanoel-rodrigues-055710193/" target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="40" height="40" alt="linkedin logo">
-  </a>
-  <a href="https://discord.com/users/442078234499219456" target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-      width="40" height="40" alt="discord logo">
-  </a>
-  <a href="https://www.instagram.com/emanuellegario/" target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-      width="40" height="40" alt="instagram logo">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoel-rodrigues-055710193/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/442078234499219456)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuellegario/)
+
 
 
 
