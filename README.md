@@ -50,13 +50,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" style="display: inline-block;" />
   </a>
   
-  <a href="https://discord.com/users/442078234499219456" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" style="display: inline-block;" />
-  </a>
-  
-  <a href="https://www.instagram.com/emanuellegario/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" style="display: inline-block;" />
-  </a>
+
 </div>
 
 
