@@ -39,9 +39,15 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
+</picture>
+
 <div align="right" style="display: flex; gap: 10px">
   <a href="https://www.linkedin.com/in/emanoel-rodrigues-055710193/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="10" height="10" alt="linkedin logo"  />
   </a>
   <img width="12" />
   
@@ -54,13 +60,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram logo"  />
   </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
-</picture>
-
-
 ###
 
