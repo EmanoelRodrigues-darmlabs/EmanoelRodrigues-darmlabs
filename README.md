@@ -38,16 +38,20 @@
 
 
 ###
-
-<picture>
+<div>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
 </picture>
+</div>
 
+
+<div>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoel-rodrigues-055710193/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/442078234499219456)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuellegario/)
+</div>
 
 
 
