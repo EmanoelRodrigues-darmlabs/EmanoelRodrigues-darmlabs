@@ -46,7 +46,7 @@
 </picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg" alt="Snake animation" />
 
 <div align="right">
   
