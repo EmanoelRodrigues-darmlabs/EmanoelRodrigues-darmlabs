@@ -1,0 +1,34 @@
+name: Generate pacman animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # A cada 12 horas
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          output_dir: output
+
+      - name: Commit and push SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/
+          git commit -m "chore: update pacman graph" || echo "No changes"
+          git push
