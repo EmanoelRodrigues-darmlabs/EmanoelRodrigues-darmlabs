@@ -46,7 +46,7 @@
 </picture>
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/emanoel-rodrigues-055710193/" target="_blank">
+  <a href="https://www.linkedin.com/in/emanoel-rodrigues-055710193/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="40" height="40" alt="linkedin logo" />
   </a>&nbsp;&nbsp;
