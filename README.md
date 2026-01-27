@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">- Graduando em Análise e Desenvolvimento de Sistemas pelo IFCE  <br>- Foco em desenvolvimento web Full' Stack  <br>- Apaixonado por resolver problemas com código limpo e boas práticas</h2>
+<h2 align="left">- Graduado em Análise e Desenvolvimento de Sistemas pelo IFCE  <br>- Foco em desenvolvimento web Full' Stack  <br>- Apaixonado por resolver problemas com código limpo e boas práticas</h2>
 
 ###
 
