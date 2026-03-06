@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Emanoel Rodrigues, estudante de Análise e Desenvolvimento de Sistemas no IFCE, com foco em desenvolvimento Full Stack. Curioso por natureza, estou sempre buscando evoluir através do código ☕</p>
+<p align="left">Sou Emanoel Rodrigues, graduado em Análise e Desenvolvimento de Sistemas e estudante de Redes de Computadores pelo IFCE, com foco em desenvolvimento Full Stack. Curioso por natureza, estou sempre buscando evoluir através do código ☕</p>
 
 ###
 
