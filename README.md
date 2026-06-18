@@ -3,7 +3,7 @@
 <h3 align="left">Desenvolvedor Full Stack | React, Angular, Java & SaaS</h3>
 
 <p align="left">
-  Desenvolvedor Full Stack com 3 anos de experiência em produtos web e SaaS, atuando com React, Next.js, Angular, TypeScript, Java/Spring Boot e Supabase. Graduado em Análise e Desenvolvimento de Sistemas pelo IFCE e graduando em Redes de Computadores, com foco em interfaces escaláveis, APIs, testes, performance e boas práticas de engenharia.
+  Desenvolvedor Full Stack com 3 anos de experiência em produtos web e SaaS. Atuo com React, Next.js, Angular, TypeScript, Java/Spring Boot e Supabase, criando interfaces escaláveis, APIs, dashboards, integrações e soluções digitais para negócios.
 </p>
 
 <div align="left">
@@ -22,32 +22,12 @@
 
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">
-  Atuo no desenvolvimento de aplicações web modernas, transitando entre front-end, back-end e produto. Tenho experiência com plataformas de monitoramento em tempo real, dashboards operacionais, sistemas SaaS multi-tenant, gestão clínica, licitações e soluções sob demanda para negócios.
-</p>
-
 <ul>
-  <li>Full Stack com React, Angular, TypeScript, Java e Spring Boot</li>
-  <li>Experiência com SaaS, Supabase, APIs RESTful, WebSocket e Docker</li>
-  <li>Atuação com testes, code review, performance e Design Systems</li>
-  <li>Liderança técnica front-end, componentização e arquitetura de interfaces</li>
-  <li>Perfil colaborativo, orientado a produto e com rápida adaptação a novas stacks</li>
-</ul>
-
----
-
-<h2 align="left">Experiência em destaque</h2>
-
-<ul>
-  <li>
-    <strong>DARM / Furukawa / Lightera</strong> - Desenvolvimento Full Stack em plataformas para gerenciamento e monitoramento de redes ópticas, usando React, Angular, Java/Spring Boot, MySQL, Docker, APIs RESTful e WebSocket.
-  </li>
-  <li>
-    <strong>DARM Labs</strong> - Liderança técnica de front-end, arquitetura de componentes, Design System, code review e apoio ao time em decisões técnicas.
-  </li>
-  <li>
-    <strong>Projetos freelancer e próprios</strong> - Desenvolvimento de soluções SaaS e aplicações web para saúde, licitações, finanças pessoais e marketplace acadêmico.
-  </li>
+  <li>Graduado em Análise e Desenvolvimento de Sistemas pelo IFCE</li>
+  <li>Graduando em Redes de Computadores pelo IFCE</li>
+  <li>Experiência com produtos web, SaaS, dashboards, sistemas operacionais e monitoramento em tempo real</li>
+  <li>Atuação com arquitetura front-end, Design System, testes, performance, code review e boas práticas</li>
+  <li>Perfil colaborativo, orientado a produto e com rápida adaptação a novas tecnologias</li>
 </ul>
 
 ---
@@ -65,8 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="height: 40px; max-height: 40px;" alt="angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px; max-height: 40px;" alt="nodejs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px; max-height: 40px;" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height: 40px; max-height: 40px;" alt="spring logo" />
@@ -77,40 +55,33 @@
 <br />
 
 <p align="left">
-  <strong>Front-end:</strong> React, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS, SCSS, Radix UI, Styled Components<br />
-  <strong>Back-end:</strong> Java, Spring Boot, APIs RESTful, WebSocket, integrações externas<br />
-  <strong>Dados & BaaS:</strong> Supabase, MySQL, Firebase<br />
-  <strong>Qualidade:</strong> Jest, Jasmine, Vitest, Playwright, code review e boas práticas de performance<br />
-  <strong>Ferramentas:</strong> Docker, Git, GitHub, Vite, Vercel, Linux
+  <strong>Front-end:</strong> React, Next.js, Angular, TypeScript, Tailwind CSS, SCSS, Radix UI<br />
+  <strong>Back-end:</strong> Java, Spring Boot, APIs RESTful, WebSocket<br />
+  <strong>Banco & BaaS:</strong> Supabase, MySQL, Firebase<br />
+  <strong>Qualidade:</strong> Jest, Jasmine, Vitest, Playwright, code review e performance<br />
+  <strong>Ferramentas:</strong> Docker, Git, GitHub, Vite, Vercel e Linux
 </p>
 
 ---
 
-<h2 align="left">Projetos em destaque</h2>
+<h2 align="left">Experiência e projetos</h2>
 
 <ul>
   <li>
-    <strong>UpClinic</strong> - SaaS clínico multi-tenant com painel TV para filas e chamadas de pacientes, módulos administrativos e operacionais.
+    <strong>DARM / Furukawa / Lightera</strong> - Desenvolvimento Full Stack em plataformas para redes ópticas, monitoramento em tempo real, APIs, WebSocket e dashboards operacionais.
   </li>
   <li>
-    <strong>UpLicita</strong> - Sistema web para licitações, compras e fornecedores, com integração de IA em fluxos operacionais.
+    <strong>DARM Labs</strong> - Atuação com arquitetura front-end, componentização, Design System, code review e apoio técnico ao time.
   </li>
   <li>
-    <strong>Minha Grana</strong> - Aplicação web de finanças pessoais com dashboards, gráficos e acompanhamento de indicadores.
+    <strong>UpClinic</strong> - SaaS clínico multi-tenant com painel TV, filas, chamadas de pacientes e módulos administrativos.
   </li>
   <li>
-    <strong>BookTrade</strong> - Plataforma para venda e troca de livros entre estudantes, com foco em experiência acadêmica colaborativa.
+    <strong>UpLicita</strong> - Sistema de gestão de licitações, compras e fornecedores com integração de IA em fluxos operacionais.
   </li>
-</ul>
-
----
-
-<h2 align="left">Formação</h2>
-
-<ul>
-  <li>Graduado em Análise e Desenvolvimento de Sistemas - IFCE Campus Canindé</li>
-  <li>Graduando em Redes de Computadores - IFCE Campus Canindé</li>
-  <li>Técnico em Eletrotécnica - EEEP Manuel Abdias Evangelista</li>
+  <li>
+    <strong>Minha Grana</strong> - Aplicação de finanças pessoais com dashboards, gráficos e indicadores.
+  </li>
 </ul>
 
 ---
