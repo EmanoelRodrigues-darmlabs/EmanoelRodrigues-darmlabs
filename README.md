@@ -1,9 +1,9 @@
 <h1 align="left">Olá, eu sou Emanoel Rodrigues</h1>
 
-<h3 align="left">Desenvolvedor Full Stack | React, Angular, Java & SaaS</h3>
+<h3 align="left">Desenvolvedor Full Stack | Front-End com React, Angular, Next.js e TypeScript | Java e Spring Boot</h3>
 
 <p align="left">
-  Desenvolvedor Full Stack com 3 anos de experiência em produtos web e SaaS. Atuo com React, Next.js, Angular, TypeScript, Java/Spring Boot e Supabase, criando interfaces escaláveis, APIs, dashboards, integrações e soluções digitais para negócios.
+  Desenvolvedor Full Stack com 3 anos de experiência em produtos web e SaaS. Atuo com React, Next.js, Angular, TypeScript, Java e Spring Boot, Supabase, criando interfaces escaláveis, APIs, dashboards, integrações e soluções digitais para negócios.
 </p>
 
 <div align="left">
@@ -90,8 +90,8 @@
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanoel-rodrigues-dev/emanoel-rodrigues-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanoel-rodrigues-dev/emanoel-rodrigues-dev/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/emanoel-rodrigues-dev/emanoel-rodrigues-dev/output/pacman-contribution-graph.svg">
   </picture>
 </div>
